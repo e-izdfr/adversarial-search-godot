@@ -1,2 +1,2 @@
 # adversarial-search-godot
-Solving a board game with adverserial search
+Solving a board game with adversarial search
